@@ -43,8 +43,8 @@ export default function Home() {
           <p>
             We are insured, Health & Safety compliant and belong to the
             Federation of Window Cleaners. Our motto has always been
-            &ldquoRegular Reliable Service&rdquo and we plan on keeping it that
-            way
+            &ldquo;Regular Reliable Service&rdquo; and we plan on keeping it
+            that way
           </p>
           <Image
             src="/kevin-farrell-window-cleaner.jpg"

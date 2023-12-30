@@ -25,13 +25,13 @@ export const Navigation = ({ activePage }: NavigationProps) => {
             <Link href="/">Home</Link>
           </li>
           <li data-is-active={activePage === "services"}>
-            <a href="/services">Services</a>
+            <Link href="/services">Services</Link>
           </li>
           <li data-is-active={activePage === "areas"}>
-            <a href="/areas">Areas</a>
+            <Link href="/areas">Areas</Link>
           </li>
           <li data-is-active={activePage === "contact"}>
-            <a href="/contact">Contact</a>
+            <Link href="/contact">Contact</Link>
           </li>
         </ul>
       </nav>

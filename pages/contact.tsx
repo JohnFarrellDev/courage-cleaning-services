@@ -40,7 +40,7 @@ export default function Home() {
             referrerPolicy="no-referrer-when-downgrade"
           ></iframe>
           <address>
-            <p>84 Westfield Road, West Ealing W13 9JA</p>
+            <p>25 Cuckoo Avenue, W7 1BP</p>
             Contact number: <a href="tel:+447710406869">07710 406869</a>
           </address>
         </Box>

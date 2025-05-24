@@ -29,9 +29,9 @@ export const Footer = () => {
       <address>
         Courage Window Cleaning,
         <br />
-        84 Westfield Ave,
+        25 Cuckoo Avenue,
         <br />
-        W13 9JA
+        W7 1BP
       </address>
     </footer>
   );
